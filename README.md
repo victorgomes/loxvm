@@ -1,4 +1,4 @@
 # loxvm
 Lox VM - A bytecode virtual machine for Lox
 
-This is single file implementation of Lox VM described in [http://craftinginterpreters.com/](http://craftinginterpreters.com/).
+This is a single file implementation of Lox VM described in [http://craftinginterpreters.com/](http://craftinginterpreters.com/).
